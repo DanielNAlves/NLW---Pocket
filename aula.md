@@ -4,7 +4,8 @@ Maneira de dar instrução ao computador Como um lego, você irá utilizar peça
 
 **Algoritmo**: Sequência de passos lógicos e finita para resolução de um problema.
 
-- Comentários
+[x] Comentários
+
 - Declarações de variáveis (const, let)
 - Operadores (atribuições, concatenação, matemáticos, lógicos)
 - Tipos de dados (string, number, boolean)
@@ -17,3 +18,18 @@ Maneira de dar instrução ao computador Como um lego, você irá utilizar peça
 Coletar os dados
 Processar os dados (manipular, alterar ...)
 Apresentar os dados
+
+## Escopo de variáveis
+
+Variáveis globais e locais
+constantes
+
+## Tipos de dados:
+
+String (texto): "" '' ``
+Number: 1, 2, 3.5
+function
+
+## Operadores
+
+Operadores de atribuição de valor
