@@ -15,21 +15,41 @@ Maneira de dar instrução ao computador Como um lego, você irá utilizar peça
 
 # Fases da resolução de um problema
 
-Coletar os dados
-Processar os dados (manipular, alterar ...)
-Apresentar os dados
+- [X] Coletar os dados
+- [X] Processar os dados (manipular, alterar ...)
+- [X] Apresentar os dados
 
 ## Escopo de variáveis
 
-Variáveis globais e locais
-constantes
+- [X] Variáveis globais e locais
+- [X] constantes
 
 ## Tipos de dados:
 
-String (texto): "" '' ``
-Number: 1, 2, 3.5
-function
+- [X] String (texto): "" '' ``
+- [X] Number: 1, 2, 3.5
+- [X] Boolean: true, false
+
 
 ## Operadores
 
-Operadores de atribuição de valor
+- [X] Operadores de atribuição de valor =
+- [X] Operação de concatenação +
+
+## Estruturas de dados
+
+### Arrays:
+
+- [X] Uma lista que contém qualquer tipo de dado
+
+### Objetos:
+
+- [x] Atributos e métodos
+- [x] Criação e manipulação de objetos
+- [x] Acesso a propriedades de objetos
+
+### Functions
+
+- [X] Criar, passar argumentos
+- [X] Executar
+- [X] Arrow function e nomed function
