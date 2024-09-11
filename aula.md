@@ -57,7 +57,15 @@ Maneira de dar instrução ao computador Como um lego, você irá utilizar peça
 
 - [x] while
 
+# condicionais
 
-# condicionais 
+- [x] switch
 
-- [] switch
+## Módulos em Node.js:
+
+- [x] Importação de módulos (require, commonJS)
+- [x] Bibliotece 'inquirer' para criar prompts interativos
+
+## Programação assíncrona e Promises:
+
+- [x] Uso de funções assíncronas (async/await)
