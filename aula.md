@@ -32,8 +32,9 @@ Maneira de dar instrução ao computador Como um lego, você irá utilizar peça
 
 ## Operadores
 
-- [x] Operadores de atribuição de valor =
-- [x] Operação de concatenação +
+- [x] Operadores de atribuição de valor: =
+- [x] Operação de concatenação: +
+- [x] Operadores de comparação: 1 == 2 | !=  |  <=  | >= | < >
 
 ## Estruturas de dados
 
@@ -60,6 +61,7 @@ Maneira de dar instrução ao computador Como um lego, você irá utilizar peça
 # condicionais
 
 - [x] switch
+- [x] if/else
 
 ## Módulos em Node.js:
 
