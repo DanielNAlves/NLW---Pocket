@@ -69,6 +69,13 @@ Maneira de dar instrução ao computador Como um lego, você irá utilizar peça
 
 - [x] Importação de módulos (require, commonJS)
 - [x] Bibliotece 'inquirer' para criar prompts interativos
+- [x] FS (file system)
+
+## JSON
+
+- [x] Javascript Object Notation
+- [x] JSON.parse() : tranforma de JSON para js
+- [x] JSON.stringify(): tranforma de js para JSON
 
 ## Programação assíncrona e Promises:
 
